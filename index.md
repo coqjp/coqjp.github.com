@@ -1,6 +1,6 @@
 ---
 layout: default
-title: トップページ
+title: トップページ - coq.jp
 ---
 
 ## coq.jp 建設予定地 ##
