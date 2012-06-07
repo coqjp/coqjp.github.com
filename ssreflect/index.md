@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ssreflect - coq.jp
+title: ssreflect
 ---
 
 ## ssreflect ##
