@@ -7,5 +7,5 @@ title: トップページ
 
 ### コンテンツ ###
 
-- [ssreflectのページ](/ssreflect/index.html)
+- [ssreflectのページ](/ssreflect/)
 
